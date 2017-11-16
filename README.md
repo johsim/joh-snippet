@@ -1,2 +1,8 @@
 # joh-snippet
-Collection of useful code snippets
+
+A collection of code snippets that might be useful. Some day.
+
+# Collection
+
+*Bash*
+- Argparser
